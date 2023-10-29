@@ -156,5 +156,14 @@ h1 {
 
   .footer {
     position: relative;
+    margin-top: 3px;
+  }
+  .question,
+  .answer {
+    font-size: 15px;
+    line-height: 20px;
+  }
+  .quiz-container {
+    padding: 17px 15px;
   }
 }
