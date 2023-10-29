@@ -139,12 +139,12 @@ h1 {
   .quiz-container {
     margin: 0 8px;
   }
+
   .btn {
     width: 100%;
-    position: relative;
   }
 }
-@media (max-width: 400px) {
+@media (max-width: 500px) {
   h1 {
     font-size: 32px;
     margin-top: 18px;
@@ -152,5 +152,9 @@ h1 {
   .description {
     font-size: 14px;
     margin-bottom: 18px;
+  }
+
+  .footer {
+    position: relative;
   }
 }
